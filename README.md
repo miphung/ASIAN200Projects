@@ -3,4 +3,4 @@
 ## Creative Project
 In collaboration with Jessie Sanchez. 
 
-Please go to __ to view it. 
+Please go to https://miphung.github.io/ASIAN200Projects/ to view it. 
